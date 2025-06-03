@@ -1,9 +1,9 @@
 ![Dias-Putra](img/header.png)
 #### Connect with me:
-<p align="left">
+<!-- <p align="left">
 <a href="https://instagram.com/xyz_izumii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xyz_izumii" height="30" width="40" /></a>
 <a href="https://discord.gg/izumi_054" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="izumi_054" height="30" width="40" /></a>
-</p>
+</p> -->
 
 #### Skills
 
